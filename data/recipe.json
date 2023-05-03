@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "food_image": "https://i.ibb.co/PYMH2nL/1.png",
+      "food_name": "Burger",
+      "food_ingredients": [
+        "ground beef",
+        "buns",
+        "lettuce",
+        "tomatoes",
+        "onions",
+        "cheese",
+        "mayonnaise",
+        "ketchup",
+        "mustard"
+      ]
+    },
+    {
+      "id": 2,
+      "food_image": "https://i.ibb.co/phfc90d/2.png",
+      "food_name": "Caesar Salad",
+      "food_ingredients": [
+        "romaine lettuce",
+        "Parmesan cheese",
+        "croutons",
+        "anchovies",
+        "garlic",
+        "lemon juice",
+        "olive oil",
+        "egg yolks",
+        "Worcestershire sauce"
+      ]
+    },
+    {
+      "id": 3,
+      "food_image": "https://i.ibb.co/r71jx1Y/3.png",
+      "food_name": "Lasagna",
+      "food_ingredients": [
+        "lasagna noodles",
+        "ground beef",
+        "tomato sauce",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "Parmesan cheese",
+        "onion",
+        "garlic",
+        "Italian seasoning"
+      ]
+    },
+    {
+      "id": 4,
+      "food_image": "https://i.ibb.co/ZLJ1W2S/4.png",
+      "food_name": "Taco",
+      "food_ingredients": [
+        "ground beef",
+        "taco shells",
+        "lettuce",
+        "tomatoes",
+        "onions",
+        "cheddar cheese",
+        "sour cream",
+        "salsa"
+      ]
+    },
+    {
+      "id": 5,
+      "food_image": "https://i.ibb.co/R6jjtw8/5.png",
+      "food_name": "Sushi",
+      "food_ingredients": [
+        "sushi rice",
+        "nori seaweed",
+        "tuna",
+        "salmon",
+        "avocado",
+        "cucumber",
+        "soy sauce",
+        "wasabi"
+      ]
+    }
+  ]

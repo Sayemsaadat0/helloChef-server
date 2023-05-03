@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "chef_picture": "https://i.ibb.co/9hdTxHP/1.png",
+      "chef_name": "Alice Smith",
+      "chef_short_bio": "Alice Smith is a Michelin-starred chef with over 15 years of experience in the culinary industry. She is known for her innovative approach to traditional French cuisine.",
+      "year_of_experience": 15,
+      "number_of_recipes": 75
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://i.ibb.co/p3hh0FL/2.png",
+      "chef_name": "Bob Johnson",
+      "chef_short_bio": "Bob Johnson is a James Beard Award-winning chef with over 25 years of experience in the culinary industry. He is best known for his modern take on Southern cuisine.",
+      "year_of_experience": 25,
+      "number_of_recipes": 150
+    },
+    {
+      "id": 3,
+      "chef_picture": "https://i.ibb.co/4RfGG6S/3.png",
+      "chef_name": "Catherine Lee",
+      "chef_short_bio": "Catherine Lee is a rising star in the culinary world. She has worked in some of the best restaurants in Europe and is known for her creative use of local and seasonal ingredients.",
+      "year_of_experience": 5,
+      "number_of_recipes": 50
+    },
+    {
+      "id": 4,
+      "chef_picture": "https://i.ibb.co/F3gpjtD/4.png",
+      "chef_name": "David Kim",
+      "chef_short_bio": "David Kim is a Korean-American chef who has worked in some of the top restaurants in New York City. He is known for his innovative fusion dishes that combine Korean and American flavors.",
+      "year_of_experience": 10,
+      "number_of_recipes": 100
+    },
+    {
+      "id": 5,
+      "chef_picture": "https://i.ibb.co/gTQBqzx/5.png",
+      "chef_name": "Elena Rodriguez",
+      "chef_short_bio": "Elena Rodriguez is a Mexican chef who has been featured in numerous food magazines and TV shows. She is known for her authentic Mexican dishes that showcase the diversity of Mexican cuisine.",
+      "year_of_experience": 8,
+      "number_of_recipes": 80
+    },
+    {
+      "id": 6,
+      "chef_picture": "https://i.ibb.co/0YkRyrW/6.png",
+      "chef_name": "Frank Chen",
+      "chef_short_bio": "Frank Chen is a Chinese-American chef who has worked in some of the best Chinese restaurants in the United States. He is known for his traditional Chinese dishes that are made with fresh, high-quality ingredients.",
+      "year_of_experience": 12,
+      "number_of_recipes": 120
+    }
+  ]
