@@ -1,80 +1,331 @@
 [
-    {
-      "id": "1",
-      "food_image": "https://i.ibb.co/PYMH2nL/1.png",
-      "food_name": "Burger",
-      "food_ingredients": [
-        "ground beef",
-        "buns",
-        "lettuce",
-        "tomatoes",
-        "onions",
-        "cheese",
-        "mayonnaise",
-        "ketchup",
-        "mustard"
-      ]
-    },
-    {
-      "id": "2",
-      "food_image": "https://i.ibb.co/phfc90d/2.png",
-      "food_name": "Caesar Salad",
-      "food_ingredients": [
-        "romaine lettuce",
-        "Parmesan cheese",
-        "croutons",
-        "anchovies",
-        "garlic",
-        "lemon juice",
-        "olive oil",
-        "egg yolks",
-        "Worcestershire sauce"
-      ]
-    },
-    {
-      "id": "3",
-      "food_image": "https://i.ibb.co/r71jx1Y/3.png",
-      "food_name": "Lasagna",
-      "food_ingredients": [
-        "lasagna noodles",
-        "ground beef",
-        "tomato sauce",
-        "ricotta cheese",
-        "mozzarella cheese",
-        "Parmesan cheese",
-        "onion",
-        "garlic",
-        "Italian seasoning"
-      ]
-    },
-    {
-      "id": "4",
-      "food_image": "https://i.ibb.co/ZLJ1W2S/4.png",
-      "food_name": "Taco",
-      "food_ingredients": [
-        "ground beef",
-        "taco shells",
-        "lettuce",
-        "tomatoes",
-        "onions",
-        "cheddar cheese",
-        "sour cream",
-        "salsa"
-      ]
-    },
-    {
-      "id": "5",
-      "food_image": "https://i.ibb.co/R6jjtw8/5.png",
-      "food_name": "Sushi",
-      "food_ingredients": [
-        "sushi rice",
-        "nori seaweed",
-        "tuna",
-        "salmon",
-        "avocado",
-        "cucumber",
-        "soy sauce",
-        "wasabi"
-      ]
-    }
+  {
+    "id": 1,
+    "chefId" : 1,
+    "food_image": "https://example.com/dish1_image.jpg",
+    "food_name": "Spaghetti Bolognese",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
+    "rating": 4.5
+  },
+  {
+    "id": 1,
+    "chefId" : 1,
+    "food_image": "https://example.com/dish1_image.jpg",
+    "food_name": "Spaghetti Bolognese",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
+    "rating": 4.5
+  },
+  {
+    "id": 1,
+    "chefId" : 1,
+    "food_image": "https://example.com/dish1_image.jpg",
+    "food_name": "Spaghetti Bolognese",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
+    "rating": 4.5
+  },
+  {
+    "id": 1,
+    "chefId" : 6,
+    "food_image": "https://example.com/dish1_image.jpg",
+    "food_name": "Spaghetti Bolognese",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
+    "rating": 4.5
+  },
+  {
+    "id": 1,
+    "chefId" : 6,
+    "food_image": "https://example.com/dish1_image.jpg",
+    "food_name": "Spaghetti Bolognese",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "chefId" : 6,
+    "food_image": "https://example.com/dish2_image.jpg",
+    "food_name": "Chicken Curry",
+    "food_ingredients": [
+      "chicken thighs",
+      "coconut milk",
+      "curry powder",
+      "onions",
+      "garlic",
+      "ginger",
+      "carrots",
+      "potatoes",
+      "cilantro",
+      "rice"
+    ],
+    "cooking_method": "Brown the chicken, cook onions, garlic, ginger, and curry powder, add coconut milk, carrots, and potatoes and simmer, then serve with rice and cilantro on top.",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "chefId" : 5,
+    "food_image": "https://example.com/dish3_image.jpg",
+    "food_name": "Caesar Salad",
+    "food_ingredients": [
+      "romaine lettuce",
+      "Parmesan cheese",
+      "croutons",
+      "anchovies",
+      "garlic",
+      "lemon juice",
+      "olive oil",
+      "egg yolks",
+      "Worcestershire sauce"
+    ],
+    "cooking_method": "Mix garlic, anchovies, lemon juice, egg yolks, and Worcestershire sauce, whisk in olive oil, toss with lettuce, croutons, and Parmesan cheese, then serve.",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "chefId" : 5,
+    "food_image": "https://example.com/dish4_image.jpg",
+    "food_name": "Beef Stroganoff",
+    "food_ingredients": [
+      "beef sirloin",
+      "sour cream",
+      "onions",
+      "mushrooms",
+      "beef broth",
+      "egg noodles",
+      "butter",
+      "flour",
+      "dijon mustard"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "chefId" : 5,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 4,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 4,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 4,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 3,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 3,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 3,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 1,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 2,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 2,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 2,
+    "food_image": "https://example.com/dish5_image.jpg",
+    "food_name": "Pesto Pasta",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  }
   ]
