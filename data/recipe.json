@@ -2,7 +2,7 @@
   {
     "id": 1,
     "chefId" : 1,
-    "food_image": "https://example.com/dish1_image.jpg",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
     "food_name": "Spaghetti Bolognese",
     "food_ingredients": [
       "spaghetti",
@@ -21,7 +21,7 @@
   {
     "id": 1,
     "chefId" : 1,
-    "food_image": "https://example.com/dish1_image.jpg",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
     "food_name": "Spaghetti Bolognese",
     "food_ingredients": [
       "spaghetti",
@@ -40,7 +40,26 @@
   {
     "id": 1,
     "chefId" : 1,
-    "food_image": "https://example.com/dish1_image.jpg",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "Si Bolognese",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
+    "rating": 4.5
+  },
+  {
+    "id": 1,
+    "chefId" : 6,
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
     "food_name": "Spaghetti Bolognese",
     "food_ingredients": [
       "spaghetti",
@@ -59,27 +78,8 @@
   {
     "id": 1,
     "chefId" : 6,
-    "food_image": "https://example.com/dish1_image.jpg",
-    "food_name": "Spaghetti Bolognese",
-    "food_ingredients": [
-      "spaghetti",
-      "ground beef",
-      "tomato sauce",
-      "onions",
-      "garlic",
-      "carrots",
-      "celery",
-      "Parmesan cheese",
-      "olive oil"
-    ],
-    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
-    "rating": 4.5
-  },
-  {
-    "id": 1,
-    "chefId" : 6,
-    "food_image": "https://example.com/dish1_image.jpg",
-    "food_name": "Spaghetti Bolognese",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "Spaghetti Bole",
     "food_ingredients": [
       "spaghetti",
       "ground beef",
@@ -97,7 +97,7 @@
   {
     "id": 2,
     "chefId" : 6,
-    "food_image": "https://example.com/dish2_image.jpg",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
     "food_name": "Chicken Curry",
     "food_ingredients": [
       "chicken thighs",
@@ -117,7 +117,7 @@
   {
     "id": 3,
     "chefId" : 5,
-    "food_image": "https://example.com/dish3_image.jpg",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
     "food_name": "Caesar Salad",
     "food_ingredients": [
       "romaine lettuce",
@@ -136,7 +136,7 @@
   {
     "id": 4,
     "chefId" : 5,
-    "food_image": "https://example.com/dish4_image.jpg",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
     "food_name": "Beef Stroganoff",
     "food_ingredients": [
       "beef sirloin",
@@ -155,8 +155,8 @@
   {
     "id": 5,
     "chefId" : 5,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "yabaps",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -171,8 +171,8 @@
   {
     "id": 5,
     "chefId" : 4,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "Pcasbis",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -187,8 +187,8 @@
   {
     "id": 5,
     "chefId" : 4,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "tyabap",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -203,8 +203,8 @@
   {
     "id": 5,
     "chefId" : 4,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "ygabois",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -219,8 +219,8 @@
   {
     "id": 5,
     "chefId" : 3,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "poshabaiioas",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -235,8 +235,8 @@
   {
     "id": 5,
     "chefId" : 3,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "sihuanssm",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -251,8 +251,8 @@
   {
     "id": 5,
     "chefId" : 3,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "uyenkois",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -267,7 +267,23 @@
   {
     "id": 5,
     "chefId" : 1,
-    "food_image": "https://example.com/dish5_image.jpg",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "habkosus",
+    "food_ingredients": [
+      "pasta",
+      "basil",
+      "pine nuts",
+      "Parmesan cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
+    "rating": 4.6 
+  },
+  {
+    "id": 5,
+    "chefId" : 2,
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
     "food_name": "Pesto Pasta",
     "food_ingredients": [
       "pasta",
@@ -283,8 +299,8 @@
   {
     "id": 5,
     "chefId" : 2,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": "Pesto ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -299,24 +315,8 @@
   {
     "id": 5,
     "chefId" : 2,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
-    "food_ingredients": [
-      "pasta",
-      "basil",
-      "pine nuts",
-      "Parmesan cheese",
-      "garlic",
-      "olive oil"
-    ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
-  },
-  {
-    "id": 5,
-    "chefId" : 2,
-    "food_image": "https://example.com/dish5_image.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_name": " Pasta",
     "food_ingredients": [
       "pasta",
       "basil",
