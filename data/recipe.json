@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": "1",
       "food_image": "https://i.ibb.co/PYMH2nL/1.png",
       "food_name": "Burger",
       "food_ingredients": [
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "food_image": "https://i.ibb.co/phfc90d/2.png",
       "food_name": "Caesar Salad",
       "food_ingredients": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "food_image": "https://i.ibb.co/r71jx1Y/3.png",
       "food_name": "Lasagna",
       "food_ingredients": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "food_image": "https://i.ibb.co/ZLJ1W2S/4.png",
       "food_name": "Taco",
       "food_ingredients": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "food_image": "https://i.ibb.co/R6jjtw8/5.png",
       "food_name": "Sushi",
       "food_ingredients": [
