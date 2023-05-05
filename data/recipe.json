@@ -2,7 +2,7 @@
   {
     "id": 1,
     "chefId" : 1,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_image": "https://i.ibb.co/25kN0Nr/1.png",
     "food_name": "Spaghetti Bolognese",
     "food_ingredients": [
       "spaghetti",
@@ -16,88 +16,88 @@
       "olive oil"
     ],
     "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
-    "rating": 4.5
-  },
-  {
-    "id": 1,
-    "chefId" : 1,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "Spaghetti Bolognese",
-    "food_ingredients": [
-      "spaghetti",
-      "ground beef",
-      "tomato sauce",
-      "onions",
-      "garlic",
-      "carrots",
-      "celery",
-      "Parmesan cheese",
-      "olive oil"
-    ],
-    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
-    "rating": 4.5
-  },
-  {
-    "id": 1,
-    "chefId" : 1,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "Si Bolognese",
-    "food_ingredients": [
-      "spaghetti",
-      "ground beef",
-      "tomato sauce",
-      "onions",
-      "garlic",
-      "carrots",
-      "celery",
-      "Parmesan cheese",
-      "olive oil"
-    ],
-    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
-    "rating": 4.5
-  },
-  {
-    "id": 1,
-    "chefId" : 6,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "Spaghetti Bolognese",
-    "food_ingredients": [
-      "spaghetti",
-      "ground beef",
-      "tomato sauce",
-      "onions",
-      "garlic",
-      "carrots",
-      "celery",
-      "Parmesan cheese",
-      "olive oil"
-    ],
-    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
-    "rating": 4.5
-  },
-  {
-    "id": 1,
-    "chefId" : 6,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "Spaghetti Bole",
-    "food_ingredients": [
-      "spaghetti",
-      "ground beef",
-      "tomato sauce",
-      "onions",
-      "garlic",
-      "carrots",
-      "celery",
-      "Parmesan cheese",
-      "olive oil"
-    ],
-    "cooking_method": "Boil the spaghetti in salted water, cook the ground beef with onions, garlic, carrots, and celery, add tomato sauce and simmer, then serve with Parmesan cheese on top.",
-    "rating": 4.5
+    "rating": 4.8
   },
   {
     "id": 2,
+    "chefId" : 1,
+    "food_image": "https://i.ibb.co/FDwRcPX/2.png",
+    "food_name": "Sushi ",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Cook rice and vinegar mixture, top with fish and roll in seaweed.",
+    "rating": 4.1
+  },
+  {
+    "id": 3,
+    "chefId" : 1,
+    "food_image": "https://i.ibb.co/CJRwsvQ/3.png",
+    "food_name": "Ramen ",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Boil noodles, add broth, meat, veggies and top with egg",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
     "chefId" : 6,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_image": "https://i.ibb.co/K9VRsfs/4.png",
+    "food_name": "Tempura ",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Dip veggies and shrimp in batter, deep fry in oil.",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "chefId" : 6,
+    "food_image": "https://i.ibb.co/K5R7Ndv/5.png",
+    "food_name": "Yakitori ",
+    "food_ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "carrots",
+      "celery",
+      "Parmesan cheese",
+      "olive oil"
+    ],
+    "cooking_method": "Chicken, soy sauce, mirin, sake, scallions. Marinate chicken in sauce, skewer and grill.",
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "chefId" : 6,
+    "food_image": "https://i.ibb.co/FVrCLsn/6.png",
     "food_name": "Chicken Curry",
     "food_ingredients": [
       "chicken thighs",
@@ -115,9 +115,9 @@
     "rating": 4.8
   },
   {
-    "id": 3,
+    "id": 7,
     "chefId" : 5,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_image": "https://i.ibb.co/ZcdNqyy/7.png",
     "food_name": "Caesar Salad",
     "food_ingredients": [
       "romaine lettuce",
@@ -131,12 +131,12 @@
       "Worcestershire sauce"
     ],
     "cooking_method": "Mix garlic, anchovies, lemon juice, egg yolks, and Worcestershire sauce, whisk in olive oil, toss with lettuce, croutons, and Parmesan cheese, then serve.",
-    "rating": 4.2
+    "rating": 5.0
   },
   {
-    "id": 4,
+    "id": 8,
     "chefId" : 5,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+    "food_image": "https://i.ibb.co/Dfpt2pB/8.png",
     "food_name": "Beef Stroganoff",
     "food_ingredients": [
       "beef sirloin",
@@ -150,13 +150,13 @@
       "dijon mustard"
     ],
     "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6
+    "rating": 4.8
   },
   {
-    "id": 5,
+    "id": 9,
     "chefId" : 5,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "yabaps",
+    "food_image": "https://i.ibb.co/Tt2mSfk/9.png",
+    "food_name": "Miso Soup",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -165,14 +165,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": "Miso paste, tofu, seaweed, dashi, scallions. Boil dashi, add paste and ingredients.",
+    "rating": 4.7 
   },
   {
-    "id": 5,
+    "id": 10,
     "chefId" : 4,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "Pcasbis",
+    "food_image": "https://i.ibb.co/6nSYsLS/10.png",
+    "food_name": "Udon ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -181,14 +181,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": "Udon noodles, broth, meat, vegetables, soy sauce. Boil noodles, add broth, meat, veggies and soy sauce.",
+    "rating": 4.3 
   },
   {
-    "id": 5,
+    "id": 11,
     "chefId" : 4,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "tyabap",
+    "food_image": "https://i.ibb.co/bP46zBM/11.png",
+    "food_name": "Okonomiyaki ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -197,14 +197,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": "Flour, egg, cabbage, pork belly, sauce. Mix ingredients, fry like a pancake and top with sauce",
+    "rating": 4.2 
   },
   {
-    "id": 5,
+    "id": 12,
     "chefId" : 4,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "ygabois",
+    "food_image": "https://i.ibb.co/T49L1FQ/12.png",
+    "food_name": "Tonkatsu ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -213,14 +213,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": " Pork, flour, egg, panko breadcrumbs, oil. Dip pork in flour, egg and breadcrumbs, fry in oil.",
+    "rating": 4.1 
   },
   {
-    "id": 5,
+    "id": 13,
     "chefId" : 3,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "poshabaiioas",
+    "food_image": "https://i.ibb.co/9g180F5/13.png",
+    "food_name": "Gyoza ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -229,14 +229,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": "Ground pork, cabbage, garlic, ginger, wrappers. Mix filling, wrap in wrapper and pan-fry.",
+    "rating": 3.9
   },
   {
-    "id": 5,
+    "id": 14,
     "chefId" : 3,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "sihuanssm",
+    "food_image": "https://i.ibb.co/vJ7N04w/14.png",
+    "food_name": "Sukiyaki ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -245,14 +245,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": "Beef, tofu, vegetables, noodles, soy sauce. Cook beef and vegetables in soy sauce, add noodles.",
+    "rating": 5.0
   },
   {
-    "id": 5,
+    "id": 15,
     "chefId" : 3,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "uyenkois",
+    "food_image": "https://i.ibb.co/TTj7CRz/15.png",
+    "food_name": "Onigiri ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -261,14 +261,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": "Rice, filling (tuna, salmon, etc.), nori seaweed, salt, sesame seeds. Shape rice with filling, wrap in seaweed.",
+    "rating": 4.5 
   },
   {
-    "id": 5,
+    "id": 16,
     "chefId" : 1,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "habkosus",
+    "food_image": "https://i.ibb.co/WBRh2Bc/16.png",
+    "food_name": "Takoyaki ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -277,14 +277,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": "Flour, egg, octopus, tempura scraps, sauce. Mix ingredients, cook in a special pan, top with sauce.",
+    "rating": 4.3 
   },
   {
-    "id": 5,
+    "id": 17,
     "chefId" : 2,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "Pesto Pasta",
+    "food_image": "https://i.ibb.co/TMp7cNC/17.png",
+    "food_name": "Yakiniku ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -293,14 +293,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": "Beef, vegetables, sauce, rice, soy sauce. Grill beef and veggies, serve with rice and sauce.",
+    "rating": 4.5
   },
   {
-    "id": 5,
+    "id": 18,
     "chefId" : 2,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": "Pesto ",
+    "food_image": "https://i.ibb.co/0msxttQ/18.png",
+    "food_name": "Donburi  ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -309,14 +309,14 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": "Rice, meat, vegetables, egg, sauce. Cook meat and veggies, top with egg and sauce over rice.",
+    "rating": 4.1
   },
   {
-    "id": 5,
+    "id": 19,
     "chefId" : 2,
-    "food_image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-    "food_name": " Pasta",
+    "food_image": "https://i.ibb.co/nwccB8h/19.png",
+    "food_name": " Karaage ",
     "food_ingredients": [
       "pasta",
       "basil",
@@ -325,7 +325,7 @@
       "garlic",
       "olive oil"
     ],
-    "cooking_method": "Brown the beef, cook onions and mushrooms, make a roux with butter and flour, whisk in beef broth and sour cream, simmer with the beef and vegetables, serve over egg noodles with dijon mustard on top.",
-    "rating": 4.6 
+    "cooking_method": " Chicken, flour, soy sauce, sake, ginger. Marinate chicken in sauce, coat in flour and fry.",
+    "rating": 4.2
   }
   ]
